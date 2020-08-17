@@ -1,0 +1,399 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-05 11:16:06.973154
+Test Commit ID: f115628024ae87a75c4ae73a48a476b3905ec2cc
+----------------- Test Results ----------------
+-10	No Makefile submitted.
+-90	Test stopped due to the absence of Makefile.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-05 19:36:21.359741
+Test Commit ID: c516862e658bb22b76c804205a1f3b7951df11fd
+----------------- Test Results ----------------
+-10	No Makefile submitted.
+-90	Test stopped due to the absence of Makefile.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-06 19:41:18.477459
+Test Commit ID: b87e6caed6b0f12fcb0e2f50fe278b79153d573b
+----------------- Test Results ----------------
+-10	Compile: Failed.
+Compilation failed with:
+http_client.c:1:10: fatal error: stdio.c: No such file or directory
+ #include <stdio.c>
+          ^~~~~~~~~
+compilation terminated.
+Makefile:11: recipe for target 'http_client' failed
+make: *** [http_client] Error 1
+ 
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-06 20:15:21.880285
+Test Commit ID: dc04823de96b2827879952f002d8c28911827083
+----------------- Test Results ----------------
+-10	Compile: Failed.
+Compilation failed with:
+http_client.c:1:10: fatal error: stdio.c: No such file or directory
+ #include <stdio.c>
+          ^~~~~~~~~
+compilation terminated.
+Makefile:11: recipe for target 'http_client' failed
+make: *** [http_client] Error 1
+ 
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-07 21:27:13.942378
+Test Commit ID: 51fa38e65241cf6021e5bde49ec8f36f56c0d72d
+----------------- Test Results ----------------
+-10	Compile: Failed.
+Compilation failed with:
+http_client.c:1:10: fatal error: stdio.c: No such file or directory
+ #include <stdio.c>
+          ^~~~~~~~~
+compilation terminated.
+Makefile:11: recipe for target 'http_client' failed
+make: *** [http_client] Error 1
+ 
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-08 12:36:26.691179
+Test Commit ID: a6a52a83c313c9a53d5ec3c08f0c7d7615816868
+----------------- Test Results ----------------
+-10	Compile: Failed.
+Compilation failed with:
+http_client.c:1:10: fatal error: stdio.c: No such file or directory
+ #include <stdio.c>
+          ^~~~~~~~~
+compilation terminated.
+Makefile:11: recipe for target 'http_client' failed
+make: *** [http_client] Error 1
+ 
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-08 19:09:02.383699
+Test Commit ID: 61c509074333fbc084a75ebb9b46abbf6caef645
+----------------- Test Results ----------------
+-10	Compile: Failed.
+Compilation failed with:
+http_client.c:1:10: fatal error: stdio.c: No such file or directory
+ #include <stdio.c>
+          ^~~~~~~~~
+compilation terminated.
+Makefile:11: recipe for target 'http_client' failed
+make: *** [http_client] Error 1
+ 
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-09 13:41:35.576466
+Test Commit ID: 83d0129b01e90112f3b876ea68ec4611b886524e
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-09 20:00:00.879803
+Test Commit ID: a7b08f5ba2355571533ebc84ecddad325d4adda8
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-09 20:00:00.950296
+Test Commit ID: 23647b65621b051440bd7262864279961fe4286d
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-09 20:00:00.950296
+Test Commit ID: 10f0ec63bb74c5524ae95b5faa13ea1e8c077247
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-10 12:20:29.581091
+Test Commit ID: 10f0ec63bb74c5524ae95b5faa13ea1e8c077247
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-10 12:20:29.581091
+Test Commit ID: 641c511d23ef3698ab6e7741586f0eca872120cb
+----------------- Test Results ----------------
+-10	Compile: Failed.
+		Incomplete binary files.
+		Expecting: http_client http_server
+
+-80	Test stopped due to the compiler error.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+10/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-10 20:46:08.642231
+Test Commit ID: 34726b9dcc7726bff9e3549ef51d7e90025b6381
+----------------- Test Results ----------------
+-0	Compile: Ok
+-15	Test Case 1: wget small file from your server failed: received file had an error.
+-20	Test Case 2: Your client failed to get a medium sized file from your server.
+-15	Test Case 3: Concurrency failed: one or more small files not retrieved.
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-10	Test Case 6: Test non existing file (404 Not Found) failed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+30/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-11 11:57:38.493214
+Test Commit ID: 13a58d981f4d654e61baff6acabd5bf4ca68bb2d
+----------------- Test Results ----------------
+-0	Compile: Ok
+-15	Test Case 1: wget small file from your server failed: received file had an error.
+-0	Test Case 2: Your client getting file from your server succeeded!
+-15	Test Case 3: Concurrency failed: one or more small files not retrieved.
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-5	Test Case 5: Program exceeded max allowed time.
+-10	Test Case 6: Test non existing file (404 Not Found) failed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+45/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-11 12:33:37.763536
+Test Commit ID: 9bfbb27640e249f4ccffbb9354787af4ababe939
+----------------- Test Results ----------------
+-0	Compile: Ok
+-15	Test Case 1: wget small file from your server failed: received file had an error.
+-20	Test Case 2: Your client failed to get a medium sized file from your server.
+-15	Test Case 3: Concurrency failed: one or more small files not retrieved.
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-5	Test Case 5: Program exceeded max allowed time.
+-10	Test Case 6: Test non existing file (404 Not Found) failed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+25/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-11 19:59:35.020916
+Test Commit ID: c78932d2ca76fd5d158e02938d6d07511178c3fe
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-12 12:12:22.452716
+Test Commit ID: 1a8dc15a3c0fed6c05e177f404e64354b03c3c21
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-12 20:00:54.905300
+Test Commit ID: a56ae02f21dbbb405b6a592396fe303b63f38142
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-13 12:05:16.567822
+Test Commit ID: aa4b48ac362bd5e6728ee2c80968259527dbc0a0
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-13 20:01:05.837417
+Test Commit ID: 953d8707bf4784ebc2aee413452607637b999580
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-14 01:26:32.273657
+Test Commit ID: 509735ac818263ac2b7eb519d9d656cc8aedef5a
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-02-14 12:06:03.268017
+Test Commit ID: 0bb5f65bea9ebb62b31540bc6885ee1a34a6c356
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+

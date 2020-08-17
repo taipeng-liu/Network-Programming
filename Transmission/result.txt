@@ -1,0 +1,260 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-27 18:23:22.832285
+Test Commit ID: aa28caf1ce5437e557779efb666f99838e00bec3
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-28 18:01:44.127219
+Test Commit ID: 3c8d7b4865b75a4d0332c698f574e3b1441c9de4
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-29 18:00:02.004018
+Test Commit ID: b17f97f82fb359a2eecb5cc90b5a3442fcf5f18d
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-29 19:57:16.599284
+Test Commit ID: 5be8e9560f07ccf7dffb0733f0bc5cfc1e18c613
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-30 19:50:20.523565
+Test Commit ID: d983a59931f000dc457fdbde5eba15d087a3449e
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-01 20:10:09.822783
+Test Commit ID: 49bc1381df122d74690b282d72fe8e4ac48e3e0c
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-40	Late Penalty: Last commit happens 20 hour(s) after due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-02 19:52:33.659922
+Test Commit ID: 9f892c032f5f5bd89774fadb5081358c35f2126a
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-86	Late Penalty: Last commit happens 43 hour(s) after due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-03 20:24:45.779140
+Test Commit ID: 9bb2bffdf4066976d4e8393d5b263c3de588237a
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-05 18:02:24.309648
+Test Commit ID: 47a8df8d62ac0e5e8bc88a2c28422a88ab9f58c7
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-05 21:22:56.730611
+Test Commit ID: 728c4b61ef087c2693536943be4a025d15e790c7
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-06 20:22:04.800764
+Test Commit ID: ac5eeccbf03c0f0048fc7528f4385804168f1e20
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-07 20:44:04.467265
+Test Commit ID: 11c398653998b09cca7a300097155c4dfd1b0080
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-08 21:14:43.343923
+Test Commit ID: e6a88bad22d364477b0178cd3265617487bbb97a
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-09 21:31:45.972612
+Test Commit ID: c487a9e4e5c8312eed651a0d57bd568ac9ea1a29
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-11 18:06:12.498719
+Test Commit ID: d8ef6d206d8a2328c24169e870aecfc6944fbc61
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-12 17:59:26.907344
+Test Commit ID: 87aa6b1e5756feb8cce60361d8e574df2aa9be85
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-12 22:00:09.759130
+Test Commit ID: 81595b1265833c68d98024b4451c5dfff7f65fe9
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-14 22:31:02.525279
+Test Commit ID: 2d58b1bb004d4e96fa2638f56f995bb6876628e9
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-15 21:49:55.315425
+Test Commit ID: 1b92d298f453ffbc2d3ca3b9742b419bde9edaa7
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-10	Test Case 1: Sending a single byte failed: the received file has 0 byte(s).
+-10	Test Case 2: Sending 50KB failed: 0 of 50000 bytes were written after 6s.
+-10	Test Case 3: Sending 65MB failed: 0 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 0 bytes.)
+-10	Test Case 7: TCP friendliness failed: your program died or ended early. (Note: it's being given 999000999000 as the numBytes argument.)
+-10	Test Case 8: TCP friendliness (with 1% loss) failed: your program died or ended early. (Note: it's being given 999000999000 as the numBytes argument.)
+-10	Test Case 9: Competing with TCP failed: received file has  bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 0 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-05-16 22:19:09.759314
+Test Commit ID: 8b1f9bdf116bca392c0235d47fee2ca02066db31
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: Sending a single byte succeeded!
+-0	Test Case 2: Sending 50KB succeeded!
+-10	Test Case 3: Sending 65MB failed: 6774784 of 65000000 bytes were written.
+-10	Test Case 4: Sending 1MB (with 5% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 5: Sending 1MB (with 25% loss) failed: 0 of 1000000 bytes were written.
+-10	Test Case 6: Quick convergence failed: failed to send 20MB when measuring bandwidth with using one instance (receiver wrote 925696 bytes.)
+-10	Test Case 7: TCP friendliness failed: your program died or ended early. (Note: it's being given 999000999000 as the numBytes argument.)
+-10	Test Case 8: TCP friendliness (with 1% loss) failed: your program died or ended early. (Note: it's being given 999000999000 as the numBytes argument.)
+-10	Test Case 9: Competing with TCP failed: received file has 3129344 bytes. The file does not match.
+-10	Test Case 10: Sending 10KB (with 25% loss, 25% reorder) failed: 4188 of 10000 bytes were written after 10s.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+20/100
+===================== End =====================
+
+

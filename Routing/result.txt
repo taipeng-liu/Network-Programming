@@ -1,0 +1,779 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-23 17:59:49.404335
+Test Commit ID: d14649b4f399ecd02736ce477b74e3c3a52ced41
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-24 18:00:19.340810
+Test Commit ID: b4a41235146bdd8e590e0aa6d95b0d783d8f2eee
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-25 18:00:05.691400
+Test Commit ID: d1b3c265e10edf7e1ac872cde6fbf959f1699973
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-25 19:09:00.399688
+Test Commit ID: 8f26dcdd49e458f776f24fe30734609165a372da
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-26 19:52:26.962591
+Test Commit ID: c12fb38ec0d7e8baa6acb69bf302ac7d28e35cf9
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-28 18:00:36.098705
+Test Commit ID: 68bf6edd1d20172009c59b31eec447cc71d965e3
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-28 19:34:05.022634
+Test Commit ID: 2a1a1351261aa38d38f8d58ce010c52265b4f1b7
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-30 18:00:41.923758
+Test Commit ID: 055be4f824d4908cc459a55f86de986363616a3c
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-30 19:47:43.893846
+Test Commit ID: 4c69a0b7b34e1fa200392c670a066c9ab7f068f6
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-03-31 20:03:36.479912
+Test Commit ID: 7d751222368bf659acf8d6ddcb031b734a30f6cd
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-01 20:32:54.709702
+Test Commit ID: bab8bca47c73340a533cc5424595d02270b54228
+Group Status: Solo
+----------------- Test Results ----------------
+-100	No Makefile submitted.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-03 18:06:27.599326
+Test Commit ID: d83bd1e650021782dcf8dd6cc54954129ce29e11
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+make: *** No rule to make target 'http_client.c', needed by 'http_client'.  Stop.
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-03 20:32:54.898958
+Test Commit ID: 38805a84584c08b988642ba7d4fc4cf2c0538f41
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+make: *** No rule to make target 'http_client.c', needed by 'http_client'.  Stop.
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-04 20:28:21.560226
+Test Commit ID: bd1c77dbf8e535f8f7d96fec1f1775a5e8ea503c
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+make: *** No rule to make target 'http_client.c', needed by 'http_client'.  Stop.
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-05 21:04:46.261534
+Test Commit ID: 36d068e02b227f0a57015162c0635fdccf23eae8
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+make: *** No rule to make target 'http_client.c', needed by 'http_client'.  Stop.
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-06 20:32:09.336056
+Test Commit ID: 977cace69f0c54545150d891847b95e822e55042
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+make: *** No rule to make target 'http_client.c', needed by 'http_client'.  Stop.
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-08 17:59:27.712386
+Test Commit ID: 7bcfc86be525c42c8fbd211e7fd6677bde6c9bab
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+main.c:5:10: fatal error: src/monitor_neighbors.h: No such file or directory
+ #include "src/monitor_neighbors.h"
+          ^~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+Makefile:12: recipe for target 'ls_router' failed
+make: *** [ls_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-08 21:50:29.949271
+Test Commit ID: 125107523c6b651788fc3466cb4796f66dcdacfd
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+Compilation failed with:
+main.c:5:10: fatal error: src/monitor_neighbors.h: No such file or directory
+ #include "src/monitor_neighbors.h"
+          ^~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+Makefile:12: recipe for target 'ls_router' failed
+make: *** [ls_router] Error 1
+ 
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-09 21:12:01.638762
+Test Commit ID: 5b01e0314f021bc292001e249b1f096d5d959f79
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-32	Late Penalty: Last commit happens 16 hour(s) after due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-11 18:00:25.599058
+Test Commit ID: 43ddaa0987dc0f0afa47362b975a76d6b4a818f2
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-12 17:59:33.677516
+Test Commit ID: 9cb54fc333e652cff6408ec862c8d4f02ad7ace7
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+45/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-13 12:05:37.542072
+Test Commit ID: 2a1ef1953a7a0d0ed80dea35876022745318fc70
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: Program exceeded max allowed time.
+-20	Test Case 4: Program exceeded max allowed time.
+-20	Test Case 5: Program exceeded max allowed time.
+-15	Test Case 6: Program exceeded max allowed time.
+-10	Test Case 7: Program exceeded max allowed time.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+5/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-13 18:00:01.217041
+Test Commit ID: 2a1ef1953a7a0d0ed80dea35876022745318fc70
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+45/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-13 21:47:24.248845
+Test Commit ID: 64adadf167b68a6b8b11b03d667cbe8e10da3874
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+45/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-14 18:00:49.275663
+Test Commit ID: fa7fb3ded906d695a3d4b8f23788aa13a62d528b
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 77 reported that node 0 was unreachable. 
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+45/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-15 11:59:47.621070
+Test Commit ID: de227e8daa676491e5823d1dcb49f74041a247df
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+65/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-15 15:59:09.728187
+Test Commit ID: 7a7c8fd45e6dcd9cd91116ee15b62d701116e2a8
+Group Status: Solo
+----------------- Test Results ----------------
+-100	Compile: Failed.
+
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-15 19:55:44.920065
+Test Commit ID: 7a7c8fd45e6dcd9cd91116ee15b62d701116e2a8
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+65/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-16 00:30:53.035409
+Test Commit ID: 4f6a93dc220ba91758f8810a7ab26248a2ffd0a8
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+65/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-16 17:00:12.873093
+Test Commit ID: deead855435862e7d1afe94dd279ba8ab2d36cfc
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+65/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-17 08:57:39.698645
+Test Commit ID: 98ad61868617f92288d312ecc075562ef8c22e0e
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+-10	Test Case 7: LS Healing after partition failed.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+65/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-17 13:24:35.520178
+Test Commit ID: 8d273a43940c250b0cb35118c8ea6c2e13baf196
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-5	Test Case 1: LS Sending messages over 3-node topology failed.
+-10	Test Case 2: LS Shortest path in example topology failed. (don't forget tie-breaking logic: for the example topo, sending from 6 to 3 should take path 6 5 2 3.) 
+		Node 6 reported that node 3 was unreachable.
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 0 reported that node 77 was unreachable. 
+		Node 77 reported that node 0 was unreachable. 
+		Node 23 reported that node 50 was unreachable. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-15	Test Case 6: LS Reporting unreachable after partition: failed.
+		Sender reported unreachable before the topology was partitioned.
+-10	Test Case 7: Program exceeded max allowed time.
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-17 22:28:02.417310
+Test Commit ID: b6da1ba1f338a3a06585c8ca11a324ca396d856d
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 15:10:00.787362
+Test Commit ID: 368bcb240ac052ee3dace05792bdfc865226423f
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 847242d53162df214105cfe56caeacd352ab358e
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 8: LS with lots of link up/downs succeeded!
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 8: LS with lots of link up/downs succeeded!
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-18 22:35:44.287843
+Test Commit ID: 14b8568c39107fa30c8f725bbcc5d394abd5eb30
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 8: LS with lots of link up/downs succeeded!
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-19 13:44:42.558352
+Test Commit ID: 218fbf3fd9409275e13ec8247b061c7a990ffc27
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-10	Test Case 3: LS Shortest path (0->77, 77->0, 23->50) in 8x8 grid topology failed. 
+		Node 0 reported that node 77 was unreachable. 
+-20	Test Case 4: LS Switching to better path when available failed. 
+-20	Test Case 5: LS Falling back to worse path failed.
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+40/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-19 22:41:27.657460
+Test Commit ID: 9a48400486fcf43acd25ace2a9d5a309cde3e946
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Ignored.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-22 10:16:15.397300
+Test Commit ID: 8eb119d38a7341ea7bf8610cffe029099581971c
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-22 10:16:15.397300
+Test Commit ID: 8eb119d38a7341ea7bf8610cffe029099581971c
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2020-04-22 10:16:15.397300
+Test Commit ID: 8eb119d38a7341ea7bf8610cffe029099581971c
+Group Status: Solo
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: LS Sending messages over 3-node topology succeeded!
+-0	Test Case 2: LS Shortest path in example topology succeeded!
+-0	Test Case 3: LS Shortest path in 8x8 grid topology succeeded!
+-0	Test Case 4: LS Switching to better path when available succeeded!
+-0	Test Case 5: LS Falling back to worse path succeeded!
+-0	Test Case 6: LS Reporting unreachable after partition succeeded!
+-0	Test Case 7: LS Healing after partition succeeded!
+-10	Test Case 8: LS with lots of link up/downs failed.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
